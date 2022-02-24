@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "A discod Bot who messages on behalf of his master. ",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorpiyogi/bots.git"
+  },
+  "author": "Gaurav Sohani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scorpiyogi/bots/issues"
+  },
+  "homepage": "https://github.com/scorpiyogi/bots#readme"
+}
