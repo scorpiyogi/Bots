@@ -1,0 +1,11 @@
+
+
+config.js
+node_modules
+package-lock.json
+yarn.lock
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
